@@ -90,7 +90,7 @@ a:hover, a:active {
 
 .MainHeader nav ul li {
 	float: left; 
-	display: inline; 
+	display: inline;
 }
 	
 .MainHeader nav a:link, .MainHeader nav a:visited {
@@ -124,7 +124,7 @@ a:hover, a:active {
    =========================== */
 
 .mainContent {
-	overflow: hidden;
+	overflow: visible;
 	line-height: 25px;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
